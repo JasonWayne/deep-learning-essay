@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-Paper: 
+## One sentence
 
-Code:
+## Paper
 
-One sentence:
+## Code
 
-Motivation:
+## Motivation
 
-Novelties & Key contribution:
+## Novelties & Key contribution
 
-Method:
+## Method
 
-Experiments:
+## Experiments
 
-Rethinking:
+## Rethinking
